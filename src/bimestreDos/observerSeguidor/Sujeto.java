@@ -1,4 +1,4 @@
-package observerSeguidor;
+package bimestreDos.observerSeguidor;
 
 public interface Sujeto {
     void agregar(Observador obs);

@@ -1,4 +1,4 @@
-package observerSeguidor;
+package bimestreDos.observerSeguidor;
 
 public class Seguidor implements Observador{
     private String nombre;

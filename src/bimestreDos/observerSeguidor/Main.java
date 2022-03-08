@@ -1,4 +1,4 @@
-package observerSeguidor;
+package bimestreDos.observerSeguidor;
 
 public class Main {
     public static void main(String[] args) {

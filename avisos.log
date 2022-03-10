@@ -1,0 +1,14 @@
+[2022-03-09 15:26:12] [ INFO ] [ListaPromedio:18] La longitud de la lista es mayor a 5
+[2022-03-09 15:26:12] [ INFO ] [ListaPromedio:18] La longitud de la lista es mayor a 5
+[2022-03-09 15:26:12] [ INFO ] [ListaPromedio:21] La longitud de la lista es mayor a 10
+[2022-03-09 15:26:12] [ ERROR] [ListaPromedio:22] La lista es igual a cero 
+java.lang.Exception
+	at bimestreTres.log4j.ListaPromedio.<init>(ListaPromedio.java:25)
+	at bimestreTres.log4j.Main.main(Main.java:20)
+[2022-03-09 15:27:10] [ INFO ] [ListaPromedio:18] La longitud de la lista es mayor a 5
+[2022-03-09 15:27:10] [ INFO ] [ListaPromedio:18] La longitud de la lista es mayor a 5
+[2022-03-09 15:27:10] [ INFO ] [ListaPromedio:21] La longitud de la lista es mayor a 10
+[2022-03-09 15:27:10] [ ERROR] [ListaPromedio:22] La lista es igual a cero 
+java.lang.Exception
+	at bimestreTres.log4j.ListaPromedio.<init>(ListaPromedio.java:25)
+	at bimestreTres.log4j.Main.main(Main.java:20)
